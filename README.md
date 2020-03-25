@@ -13,3 +13,8 @@ You can run it with :
 ```bash
 docker-compose up
 ```
+
+[Notebook link](Creating-NN-tensorflow-1_15.ipynb)
+
+
+*Nathan.*

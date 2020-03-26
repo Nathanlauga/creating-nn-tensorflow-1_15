@@ -9,6 +9,8 @@ You can find some environment details in
 ├── Dockerfile
 ```
 
+I used tensorflow v1.15 GPU on Ubuntu 19.10 : [Tensorflow install GPU](https://www.tensorflow.org/install/gpu).
+
 You can run it with : 
 ```bash
 docker-compose up

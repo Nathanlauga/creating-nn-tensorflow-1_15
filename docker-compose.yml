@@ -4,6 +4,7 @@ services:
   tf:
     build: .
     runtime: nvidia
+    restart: always
     environment:
       - NVIDIA_VISIBLE_DEVICES=0
     ports:
